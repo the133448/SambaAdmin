@@ -1,8 +1,8 @@
 <?php
 
 require "../api/api.php";
-$usr_auth = "q";
-$pwd_auth = "nada";
+$usr_auth = "username";
+$pwd_auth = "password";
 
 
 $usr = $_SERVER["PHP_AUTH_USER"];
